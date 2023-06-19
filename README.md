@@ -1,11 +1,11 @@
-About r-discretization
-======================
+About r-discretization-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-discretization-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=discretization
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-discretization-feedstock/blob/main/LICENSE.txt)
 
 Summary: This package is a collection of supervised discretization algorithms. It can also be grouped in terms of top-down or bottom-up, implementing the discretization algorithms.
 
